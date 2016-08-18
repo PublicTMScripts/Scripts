@@ -16,7 +16,7 @@
 
 var devTeam = ["emartinez", "jnalwalker", "sdahl", "jcowley", "mbullock", "mmcentire", "dolsen", "tolsen", "ccruz", "dcruz", "dtruzinski", "nbayles", "nirvin", "gstipe", "lwright", "pblount", "pvisser", "ksherpherd", "jhomer", "bpeterson", "mratto", "rrollins", "tlarisch", "rgoncalves", "cloiseau", "colsen2", "adhomer", "jmadsen", "bblomquist", "greynolds"];
 
-var salesTrainingTeam = ["hplayer", "bgraham", "bmounteer", "mroller", "acedillo", "bcarr", "bcarradmin"];
+var salesTrainingTeam = ["hplayer", "bgraham", "bmounteer", "mroller", "acedillo", "bcarr", "bcarradmin", "salesdemo"];
 
 var authorizedUsers = devTeam.concat(salesTrainingTeam);
 
